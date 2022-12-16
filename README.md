@@ -1,1 +1,2 @@
-# TODO-app-with-React
+# sodoku solver with html, css, javascript
+
